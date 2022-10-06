@@ -76,4 +76,4 @@ async def join(ctx: commands.Context):
 
     await ctx.send("You are logged to anon chat!")
 
-bot.run("MTAyMzMyODkzMjQ4Njk3MTQxMw.GazH1y.p4HWI7KKlGGDOz81mJ1gFhDVdpi0wOOc1NlBOE")
+bot.run("TOKEN")
